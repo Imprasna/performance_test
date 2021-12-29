@@ -30,7 +30,6 @@ body {
     justify-content: center;
     width: 80%;
     margin: 0 auto;
-    padding: 3rem 0;
 }
 
 .pro {
@@ -43,8 +42,7 @@ body {
 .pro1 > h1 {
     font-size: 2rem;
     font-weight: 600;
-    text-transform: uppercase;
-    text-decoration: underline;
+    tt
 }
 
 .pro2 > p {
