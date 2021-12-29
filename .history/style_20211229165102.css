@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.charts {
+    
+}
+
+.chart {
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}

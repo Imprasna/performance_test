@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.charts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+}
+
+.chart {
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
+
+.posi {
+    display: flex;
+    width: 100%;
+}

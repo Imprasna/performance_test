@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.charts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+}
+
+.chart {
+    position: relative;
+    width: 50vw;
+    height: 50vh;
+}
+
+.posi {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pro {
+    width: 50%;
+    height: 100%;
+    background: red;
+    p
+}
+
+
+.beh {
+    width: 50%;
+    height: 100%;
+    background: lightblue;
+    p
+}
